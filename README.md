@@ -1,4 +1,4 @@
-🧩 Decision Tree Builder (Gini Index)
+#🧩 Decision Tree Builder (Gini Index)
 
 Build decision tree classifiers from categorical datasets using the Gini index. This notebook works with any categorical dataset and provides both textual and graphical tree representations.
 
